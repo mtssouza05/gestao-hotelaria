@@ -121,7 +121,6 @@
       </v-col>
     </v-row>
 
-    <!-- Modal com lista de quartos -->
     <v-dialog v-model="modalVisible" max-width="600px">
       <v-card>
         <v-card-title>
